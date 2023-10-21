@@ -1,0 +1,47 @@
+h1,p,hr{
+    margin:0 !important;
+}
+a{
+    text-decoration: none !important;
+}
+body{
+    background-color: rgba(0, 128, 255, 1) !important;
+}
+
+.menu ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    font-size : 24px !important;
+ 
+}
+
+input::placeholder{
+    color : rgba(196, 196, 196, 1) !important
+}
+
+.no-border{
+    border:none !important;
+}
+
+.border-btm{
+    border-bottom: solid 2px;
+    border-color: rgba(196, 196, 196, 1);
+}
+
+.px-6{
+    padding:0px 70px !important;
+}
+
+.w-40{
+    width: 40% !important;
+}
